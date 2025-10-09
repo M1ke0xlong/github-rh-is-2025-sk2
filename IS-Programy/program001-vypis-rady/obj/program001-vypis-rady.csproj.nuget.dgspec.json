@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "d:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "d:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\rahom\\.nuget\\packages\\",
-        "outputPath": "d:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
