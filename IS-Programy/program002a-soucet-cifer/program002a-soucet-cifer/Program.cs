@@ -38,7 +38,6 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Součet cifer čísla {0} je {1}",numberBackup, suma);
 
-
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
