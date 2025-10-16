@@ -14,28 +14,26 @@ while (!int.TryParse(Console.ReadLine(), out first))
 {
     Console.WriteLine("Špatně zadaný vstup, zkuste to znovu a jako celé číslo");
 }
-/*
-//první číslo
-Console.WriteLine("first = ");
-first = int.Parse(Console.ReadLine());
-//poslední číslo
-Console.WriteLine("last = ");
-last = int.Parse(Console.ReadLine());
-//kroky
-Console.WriteLine("step = ");
-step = int.Parse(Console.ReadLine());
-//vypsání prvního čísla a loop
-Console.WriteLine("\n" + first);
-while (true)
+Console.WriteLine("Zadejte poslední číslo řady (celé číslo):");
+while (!int.TryParse(Console.ReadLine(), out last))
 {
-    if ((first + step) <= last)
-    {
-        first = first + step;
-        Console.WriteLine(first);
-    }
-    else
-    {
-        break;
-    }
+    Console.WriteLine("Špatně zadaný vstup, zkuste to znovu a jako celé číslo");
 }
-*/
+Console.WriteLine("Zadejte diferenci (celé číslo):");
+while (!int.TryParse(Console.ReadLine(), out step))
+{
+    Console.WriteLine("Špatně zadaný vstup, zkuste to znovu a jako celé číslo");
+}
+//výstup zadaných hodnot
+Console.WriteLine();
+Console.WriteLine("=============================");
+Console.WriteLine("Zadali jste tyto hodnoty:");
+Console.WriteLine("První číslo řady: {0}", first);
+Console.WriteLine("Poslední číslo řady: {0}", last);
+Console.WriteLine("Diference číslé řady: {0}", step);
+Console.WriteLine("===========================================================================");
+Console.WriteLine("První číslo řady: {0}, Poslední číslo řady: {1}, Diference číslé řady: {2}", first, last, step);
+Console.WriteLine("===========================================================================");
+for (int i = first; i < last; i = i+step) {
+    Console.WriteLine(i);
+}
