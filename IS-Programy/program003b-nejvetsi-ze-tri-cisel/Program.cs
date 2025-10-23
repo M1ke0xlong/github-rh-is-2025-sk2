@@ -43,7 +43,7 @@ while (again == "a")
             Console.WriteLine($"Největší je druhé číslo = {b}");
         else
             Console.WriteLine($"Největší je třetí číslo = {c}");
-    }
+    } 
     Console.WriteLine("=========================");
 
     Console.WriteLine("\nPro opakování programu stiskněte klávesu a.");
