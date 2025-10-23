@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj": {}
   },
   "projects": {
-    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj",
+        "projectName": "program002b-soucet-cifer",
+        "projectPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002b-soucet-cifer\\program002b-soucet-cifer.csproj",
         "packagesPath": "C:\\Users\\rahom\\.nuget\\packages\\",
-        "outputPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002b-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -61,12 +60,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

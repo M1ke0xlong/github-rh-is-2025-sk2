@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
+    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
   },
   "projects": {
-    "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
+    "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectUniqueName": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "projectName": "program002a-soucet-cifer",
-        "projectPath": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "packagesPath": "C:\\Users\\rahom\\.nuget\\packages\\",
-        "outputPath": "D:\\TUL\\IT\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer\\obj\\",
+        "outputPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program002a-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
