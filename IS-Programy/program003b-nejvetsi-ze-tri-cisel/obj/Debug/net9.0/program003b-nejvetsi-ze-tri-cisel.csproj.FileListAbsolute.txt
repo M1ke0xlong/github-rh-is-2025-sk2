@@ -1,0 +1,15 @@
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.exe
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.deps.json
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.runtimeconfig.json
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfoInputs.cache
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfo.cs
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.csproj.CoreCompileInputs.cache
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.sourcelink.json
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\refint\program003b-nejvetsi-ze-tri-cisel.dll
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.genruntimeconfig.cache
+D:\github-rh-is-2025-sk2\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\ref\program003b-nejvetsi-ze-tri-cisel.dll
