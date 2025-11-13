@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-      "projectName": "program001-vypis-rady",
-      "projectPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program005-generator\\program005-generator.csproj",
+      "projectName": "program005-generator",
+      "projectPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program005-generator\\program005-generator.csproj",
       "packagesPath": "C:\\Users\\rahom\\.nuget\\packages\\",
-      "outputPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "D:\\github-rh-is-2025-sk2\\IS-Programy\\program005-generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
