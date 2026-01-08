@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\program015a-konzolova-hra\\program015a-konzolova-hra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\program015a-konzolova-hra\\program015a-konzolova-hra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\program015a-konzolova-hra\\program015a-konzolova-hra.csproj",
+        "projectName": "program015a-konzolova-hra",
+        "projectPath": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\program015a-konzolova-hra\\program015a-konzolova-hra.csproj",
         "packagesPath": "C:\\Users\\rahom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\rahom\\Documents\\GitHub\\github-rh-is-2025-sk2\\program015a-konzolova-hra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
